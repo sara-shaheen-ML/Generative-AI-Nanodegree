@@ -1,5 +1,4 @@
 ##  Generative AI Nanodegree Program
-## Program Structure
 
 The nanodegree is divided into 4 main modules, each containing theory, coding exercises, and a project.
 
