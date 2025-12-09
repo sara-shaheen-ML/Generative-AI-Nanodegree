@@ -134,4 +134,4 @@ Git/GitHub for project tracking
 
 🎯 Goal
 
-To complete the nanodegree and build a strong, modern Generative AI portfolio that supports
+To complete the nanodegree and build a strong, modern Generative AI portfolio that is up to date. 
