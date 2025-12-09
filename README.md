@@ -2,15 +2,6 @@
 
 The nanodegree is divided into 4 main modules, each containing theory, coding exercises, and a project.
 
-generative-ai-nanodegree/
-│
-├── module01_intro_genai/
-├── module02_large_language_models/
-├── module03_rag_systems/
-├── module04_agents/
-└── final_project/
-
-
 Each module folder includes:
 
 notes.md – my summaries and understanding
