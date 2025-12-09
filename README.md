@@ -1,4 +1,6 @@
-# Generative-AI---Nanodegree
+##  Generative AI Nanodegree Program
+## Program Structure
+
 The nanodegree is divided into 4 main modules, each containing theory, coding exercises, and a project.
 
 generative-ai-nanodegree/
@@ -142,4 +144,4 @@ Git/GitHub for project tracking
 
 🎯 Goal
 
-To complete the nanodegree and build a strong, modern Generative AI portfolio that supports my return to academia and AI research in Saudi Arabia.
+To complete the nanodegree and build a strong, modern Generative AI portfolio that supports
